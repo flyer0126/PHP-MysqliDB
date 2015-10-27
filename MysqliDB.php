@@ -2,7 +2,7 @@
 /**
  * MysqliDB class
  *
- * @author zhangh
+ * @author flyer0126
  * @since 2013/09
  *
  */
