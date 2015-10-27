@@ -3,7 +3,7 @@
  * This is database configuration file.
  *
  * @author flyer0126
- * @since  2015/09
+ * @since  2013/09
  */
 class DATABASE_CONFIG {
 
